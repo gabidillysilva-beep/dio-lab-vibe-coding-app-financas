@@ -198,7 +198,8 @@ Essa etapa foi fundamental para transformar uma ideia simples em um documento de
 
 <details>
 <summary>Clique para expandir o PRD utilizado</summary>
-...
+   
+```text
 # PRD – Assistente Financeiro Conversacional
 
 ## 1. Visão Geral
@@ -698,7 +699,7 @@ Usuários preferem registrar movimentações financeiras através de conversa em
 # 12. Princípio Norteador do Produto
 
 Se um usuário idoso, um iniciante em tecnologia ou alguém utilizando o aplicativo pela primeira vez conseguir registrar uma movimentação financeira em poucos segundos sem precisar assistir a um tutorial, então o produto está cumprindo seu propósito.
-...
+```
 
 ## Perfis
 
